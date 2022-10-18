@@ -1,8 +1,5 @@
 # Medientechnik
-In Medientechnik geht es darum, Website zu entwickeln und zu designen, hauptsächlich in folgenden Programmiersprache:
--HTML
--CSS
--JS
+In Medientechnik geht es darum, Website zu entwickeln und zu designen, hauptsächlich in HTML, CSS und JavaScript
 ## Liste aller Übungen
 1. Landschaftsfotografie
 1. Antarktis
