@@ -76,3 +76,6 @@ Css-Code in das HTML-Template einfügen:
 
 ### Übung 10 - Tabellen
 [Übung_10](https://github.com/Tobias-Huch/Test1/tree/main/%C3%9Cbung%2010%20-%20Schul%C3%BCbung%20Tabellen)
+
+- Tabellen mit Hilfe der gelernten Tags im HTML umsetzen
+- Im CSS verschönern(externes Stylesheet)
